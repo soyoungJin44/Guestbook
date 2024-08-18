@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form>
+	<form action="/phonebook3/gbc" method="get">   
 		<table>
 			<tr>
 				<td>비밀번호</td>

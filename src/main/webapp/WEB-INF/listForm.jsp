@@ -11,7 +11,7 @@
 
 </head>
 <body>
-	<form action="" method="">
+	<form action="/phonebook3/gbc" method="get">
 		<table border="1" width="540px">
 			<tr>
 				<td>이름</td>
@@ -24,7 +24,7 @@
 			</tr>
 			<tr>
 				<td colspan="4"><button type="submit">등록(확인)</button></td>
-				<input type="hidden" name="action" value="insert">
+				<input type="text" name="action" value="insert">
 			</tr>
 		</table>
 	</form>
